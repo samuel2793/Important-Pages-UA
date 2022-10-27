@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+<link rel="icon" href="images/icon.ico">
+<title>Presentaciones</title>
+</head>
+ 
+<body>
+<h2>Presentaciones</h2>
+<p>Banana Split:</p>
+
+ <ul>
+  <li><a href="https://moodle2022-23.ua.es/moodle/pluginfile.php/6214/mod_resource/content/12/Presentacion-PROG3.pdf">P3</a></li>
+  <li><a href="https://moodle2022-23.ua.es/moodle/pluginfile.php/35102/mod_resource/content/0/1_FFI-progalumnos_C22-23.pdf">FFI</a></li>
+  <li><a href="https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wcodest=C203&wcodasi=34011&wlengua=es&scaca=2022-23#instrumentos">ESTADÍSTICA</a></li>
+  <li><a href=" ">SO</a></li>
+    <li> <a>DBD</a></li>
+  <li> 
+  	<ul> 
+    <li> <a>Teoría</a>
+    	<li> 
+  		<ul> 
+    	<li> <a href="https://cvnet.cpd.ua.es/uamatdocente/Materiales/File?idMat=162499488&tipoorigen=pdf&p=1666902403282">Presentación</a></li>
+    	<li> <a href="https://cvnet.cpd.ua.es/uamatdocente/Materiales/File?idMat=162499487&tipoorigen=pdf&p=1666902466837">Planificación</a></li>
+    	</ul></li></li>
+    <li> <a>Práctica</a>
+    	<li> 
+  		<ul> 
+    	<li> <a href="https://cvnet.cpd.ua.es/uamatdocente/Materiales/File?idMat=162499393&tipoorigen=pdf&p=1666902509753">Presentación</a></li>
+    	<li> <a href="https://cvnet.cpd.ua.es/uamatdocente/Materiales/File?idMat=162499392&tipoorigen=pdf&p=1666902535307">Planificación</a></li>
+    	</ul></li></li>
+    </ul></li>
+</ul>
+</body>
+</html>
