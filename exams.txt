@@ -1,5 +1,3 @@
-DBD-practica
-27/10/2022
 P3-practica3
 07/11/22
 REDES prac 1 y 2
