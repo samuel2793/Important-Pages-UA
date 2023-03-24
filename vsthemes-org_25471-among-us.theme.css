@@ -1,0 +1,68 @@
+/**
+* @name Tems Discord
+* @author Тигровый Ястреб
+* @version 0.6
+* @invite https://discord.gg/QWayQ7BNUu
+* @description Приятного использования!
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+/* PLUGINS */
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/Avignon.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+/* CONFIG */
+:root {
+--title: "Tems Discord";
+--background: url("https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-art-among-us-65.jpg");
+--font: "Avignon PS Pro";
+--time: 10s;
+--Online: rgb(0 255 0);
+--Idle: rgb(255 255 0);
+--Unavailable: rgb(255 0 0);
+--Offline: rgb(90 95 100);
+--Playing: url("https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-art-among-us-65.jpg");
+--Xbox: url("https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-art-among-us-65.jpg");
+--Spotify: url("https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-art-among-us-65.jpg");
+--Streaming: url("https://wonder-day.com/wp-content/uploads/2020/10/wonder-day-art-among-us-65.jpg");
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://images-ext-1.discordapp.net/external/07sPc4BVaDavgheojAFs7WndgUMjBXIufxrnj1Fn25M/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/538780775806402590/e9d94dfeeb51f850e45951452e3ecdd0.png");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Привет! Добро пожаловать!";
+--AddNewServer: "➕ Добавить сервер";
+--Close: "🔵";
+--Resize: "🔴";
+--Hide: "💢";
+--ProfilePic: "Тык";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "😜";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "💬";
+--WelcomeMessage: "✨Добро пожаловать в Among Us!✨";
+--Watermark: "Тему сделал Тигровый Ястреб / Tems Discord";
+--EditStatus: "Поставьте пользовательский статус";
+--Folders: "📁";
+--C1: rgb(130 0 216);
+--C2: rgb(255 0 0);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Кажется тут нужно написать текст...";
+--ListenAlong: "";
+--StreamingColor: rgb(151 0 255);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(142 0 181);
+--Announcement: "📣";
+--grey5: rgb(77 70 85 / 50%);
+--darkgrey5: rgb(18 18 18 / 75%);
+} /* Пуньк! */
