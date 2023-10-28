@@ -1,8 +1,14 @@
 SI - Entrega Práctica 1
-05/10/2023
+05/11/2023
+
+SO - Entrega Práctica 2
+13/11/2023
 
 SI - Entrega Teoría
-19/10/2023
+19/11/2023
+
+ASORC - Hito 2
+20/11/2023
 
 SI - Entrega Práctica 2 parte 1
 03/12/2023
@@ -15,3 +21,6 @@ SI - Presentación Teoría
 
 SI - Entrega Práctica 2 parte 2
 23/12/2023
+
+ASORC - Hito 3
+11/12/2023
