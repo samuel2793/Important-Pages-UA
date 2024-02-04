@@ -1,14 +1,35 @@
 AC Fase 1
 05/02/2024
 
+ADA Práctica 1
+18/02/2024
+
+ADA Práctica 2
+25/02/2024 
+
 DSS Practica 1
 26/02/2024
+
+ADA Práctica 3
+03/03/2024
 
 LPP PARCIAL 1: Temas 1 y 2
 07/03/2024
 
+ADA Práctica 4
+10/03/2024
+
+ADA Práctica 5
+17/03/2024
+
+ADA Práctica 6.1
+24/03/2024 
+
 AC Fase 2
 25/03/2024
+
+ADA Práctica 6.2
+31/03/2024 
 
 GPI Tutoria grupal
 08/04/2024
@@ -22,11 +43,20 @@ GPI Presentación
 LPP PARCIAL 2: Temas 3 y 4
 25/04/2024
 
+ADA Práctica 7
+28/04/2024
+
+ADA Práctica 8
+19/05/2024
+
 DSS Practica 3
 20/05/2024
 
 AC Fase 3
 20/05/2024
+
+ADA Práct. final
+02/06/2024 
 
 LPP PARCIAL 3: Temas 5 y 6
 03/06/2024
