@@ -1,5 +1,14 @@
+Entrega lab2 IC
+03/11/2024
+
 Control Practicas MADS
 06/11/2024
+
+Entrega P5 DCA
+06/11/2024
+
+Examen 1 Practicas IC
+11/11/2024
 
 Control 1 Teoria MADS
 13/11/2024
@@ -7,14 +16,44 @@ Control 1 Teoria MADS
 Entrega 3 Practicas MADS
 12/11/2024
 
+Entrega P6 DCA
+20/11/2024
+
 Entrega 4 Practicas MADS
 26/11/2024
 
-Entrega 5 Practicas MADS
-17/12/2024
+Entrega P7 DCA
+27/11/2024
+
+Entrega 3 Practicas ADI
+02/12/2024
+
+Entrega P8 DCA
+08/12/2024
+
+Entrega lab3 IC
+12/12/2024
+
+Examen 2 Practicas IC
+16/12/2024
+
+Presentación de trabajos MADS
+18/12/2024
+
+Examen 2 Practicas IC
+16/12/2024
+
+Entrega P9 DCA
+18/12/2024
 
 Examen Final ADI
 09/01/2025
+
+Entrega 4 Practicas ADI
+10/01/2025
+
+Entrega trabajo en grupo ADI
+14/01/2025
 
 Examen Final IC
 20/01/2025
